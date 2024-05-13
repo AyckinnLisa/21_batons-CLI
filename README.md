@@ -13,7 +13,7 @@ Rules :
     <img
         src="https://github.com/AyckinnLisa/21_batons-CLI/blob/main/screenshot.png"
         alt="DEMO"
-        style="width:50%">
+        style="width:70%">
 </div>
 
 ---
